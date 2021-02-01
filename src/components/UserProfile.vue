@@ -1,4 +1,4 @@
-<template>
+    <template>
   <div id="app">
     @{{user.username}} - {{fullName}}
     <strong>Followers: {{followers}}</strong>
